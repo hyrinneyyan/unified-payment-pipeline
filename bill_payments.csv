@@ -1,0 +1,3 @@
+bill_id,customer_id,bill_amount,bill_currency,payment_status,biller,payment_time
+B3001,U103,320.75,AED,SUCCESS,DEWA,2025-05-01T08:45:00
+B3002,U101,75.20,AED,FAILED,Etisalat,2025-05-01T13:00:00
